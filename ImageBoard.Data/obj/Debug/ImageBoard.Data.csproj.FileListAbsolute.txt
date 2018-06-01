@@ -1,0 +1,10 @@
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\obj\Debug\ImageBoard.Data.csprojResolveAssemblyReference.cache
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\bin\Debug\ImageBoard.Data.dll.config
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\bin\Debug\ImageBoard.Data.dll
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\bin\Debug\ImageBoard.Data.pdb
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\bin\Debug\EntityFramework.dll
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\bin\Debug\EntityFramework.xml
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\obj\Debug\ImageBoard.Data.dll
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Data\obj\Debug\ImageBoard.Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\bin\Debug\ImageBoard.Business.dll
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\bin\Debug\ImageBoard.Business.pdb
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\bin\Debug\ImageBoard.Data.dll
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\bin\Debug\EntityFramework.dll
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\bin\Debug\ImageBoard.Data.pdb
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\bin\Debug\EntityFramework.xml
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\obj\Debug\ImageBoard.Business.csprojResolveAssemblyReference.cache
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\obj\Debug\ImageBoard.Business.dll
+C:\Users\sever_000\Documents\Visual Studio 2015\Projects\ImageBoard\ImageBoard.Business\obj\Debug\ImageBoard.Business.pdb
